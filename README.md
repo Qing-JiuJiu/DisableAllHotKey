@@ -1,5 +1,5 @@
-# DisableAltTab
+# DisableAllHotKey
 
-A Xposed module to disable Alt-Tab hotkey for generic android devices.
+forked from [CwithW/DisableAltTab](https://github.com/CwithW/DisableAltTab)
 
-For MIUI Android12+ devices, use [MiuiPadMeta](https://github.com/CwithW/MiuiPadMeta) instead which also disables MIUI Meta key hotkeys(eg. Win-A opens calculator).
+A Xposed module to disable hotkey for generic android devices.
